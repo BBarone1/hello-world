@@ -15,13 +15,13 @@ Definition of done:
 - [ ] Conversation between PM, Moderator, Designer, Recruiter to agree and sign off on recruitment 2 weeks before sessions start
 - [ ] Participants recruited and scheduled
 - [ ] Recruitment check-in with PM and Recruiter one week before sessions start
-- [ ] Longform Research Planning Issue completed
-- [ ] Conversation guide or activity written and piloted
+- [ ] Research [Planning Issue Template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Research%20Process%20and%20Templates/New%20Planning%20Issue%20Template.md) completed
+- [ ] Conversation guide or research activity completed and piloted
 - [ ] Sessions or activities conducted
 - [ ] Sessions halfway point check-in between moderator, notetaker, observers (how are we doing?)
 - [ ] Post-sessions recap between moderator, notetaker, observers
 - [ ] Synthesis completed
-- [ ] Readout files created and shared with project team and broader stakeholders
+- [ ] Readout created and shared with product team, stakeholders
 - [ ] Next steps for design and build documented
 
 Possible research methods include (but are not limited to)
